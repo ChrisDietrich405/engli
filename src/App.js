@@ -20,7 +20,7 @@ function App() {
         <div className="name">
           <div className="name-block">
             <h1>Chris</h1>
-            <h1>Dietrich</h1>
+            <h1>Dietrich hello</h1>
             <h2>Professor de Inglês</h2>
           </div>
         </div>
