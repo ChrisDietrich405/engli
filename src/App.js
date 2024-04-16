@@ -19,10 +19,8 @@ function App() {
       <div className="title-container" id="home">
         <div className="name">
           <div className="name-block">
-            <h1>
-              Chris <br />
-              Dietrich
-            </h1>
+            <h1>Chris</h1>
+            <h1>Dietrich</h1>
             <h2>Professor de Inglês</h2>
           </div>
         </div>
